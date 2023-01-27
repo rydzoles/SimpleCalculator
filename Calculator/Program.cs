@@ -16,7 +16,7 @@ namespace Calculator
                 Console.WriteLine("Podaj pierwszą liczbę:");
                 var number1 = GetInput();
 
-
+                // dodałęm komentrarz
 
                
 
