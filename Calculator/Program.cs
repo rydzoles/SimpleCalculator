@@ -15,6 +15,9 @@ namespace Calculator
             {
                 Console.WriteLine("Podaj pierwszą liczbę:");
                 var number1 = GetInput();
+
+
+
                
 
                 Console.WriteLine("Jaką operację chcesz wykonać??? Możliwe operacje to: '+', '-', '/', '*'. ");
